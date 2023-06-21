@@ -1,0 +1,6 @@
+// SPDX-FileCopyrightText: 2023 Sergei Silnov
+// SPDX-License-Identifier: MIT
+
+#include "../miryoku/custom_config.h"
+#include "../miryoku/mapping/42/crabapplepad.h"
+#include "../miryoku/miryoku.dtsi"
