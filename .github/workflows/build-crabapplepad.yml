@@ -10,5 +10,4 @@ jobs:
     with:
       board: '["seeeduino_xiao_ble"]'
       shield: '["crabapplepad_left","crabapplepad_right"]'
-      alphas: '["qwerty"]'
       clipboard: '["Mac"]'
