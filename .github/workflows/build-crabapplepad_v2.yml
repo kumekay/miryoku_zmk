@@ -1,0 +1,13 @@
+# SPDX-FileCopyrightText: 2024 Sergei Silnov
+# SPDX-License-Identifier: MIT
+
+name: "Build crabapplepad v2 firmware"
+on: workflow_dispatch
+jobs:
+  build:
+    uses: ./.github/workflows/main.yml
+    secrets: inherit
+    with:
+      board: '["nice_nano_v2"]'
+      shield: '["crabapplepad_v2"]'
+      clipboard: '["Mac"]'
