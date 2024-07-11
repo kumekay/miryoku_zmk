@@ -1,0 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Sergei Silnov
+# SPDX-License-Identifier: MIT
+
+outboard_repository=kumekay/crabapplepad_shield
+outboard_ref=main
+outboard_from=config/boards/shields/crabapplepad_v2
+outboard_to=boards/shields/crabapplepad_v2
