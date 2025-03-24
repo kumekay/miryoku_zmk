@@ -2,5 +2,5 @@
 // SPDX-License-Identifier: MIT
 
 #include "../miryoku/custom_config.h"
-#include "../miryoku/mapping/36/mymikla_v1.h"
+#include "../miryoku/mapping/36/aronia_v1.h"
 #include "../miryoku/miryoku.dtsi"

@@ -3,5 +3,5 @@
 
 outboard_repository=kumekay/crabapplepad_shield
 outboard_ref=main
-outboard_from=config/boards/arm/mymikla_v1
-outboard_to=boards/arm/mymikla_v1
+outboard_from=config/boards/arm/aronia_v1
+outboard_to=boards/arm/aronia_v1

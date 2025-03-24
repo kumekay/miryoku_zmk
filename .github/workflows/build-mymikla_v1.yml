@@ -1,12 +1,12 @@
 # SPDX-FileCopyrightText: 2024 Sergei Silnov
 # SPDX-License-Identifier: MIT
 
-name: "Build Mymikla v1 firmware"
+name: "Build Aronia v1 firmware"
 on: workflow_dispatch
 jobs:
   build:
     uses: ./.github/workflows/main.yml
     secrets: inherit
     with:
-      board: '["mymikla_v1"]'
+      board: '["aronia_v1"]'
       clipboard: '["Mac"]'
