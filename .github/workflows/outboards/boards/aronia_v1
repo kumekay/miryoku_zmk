@@ -1,7 +1,7 @@
 # SPDX-FileCopyrightText: 2024 Sergei Silnov
 # SPDX-License-Identifier: MIT
 
-outboard_repository=kumekay/crabapplepad_shield
+outboard_repository=kumekay/zmk_shields
 outboard_ref=main
 outboard_from=config/boards/arm/aronia_v1
 outboard_to=boards/arm/aronia_v1
